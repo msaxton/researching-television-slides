@@ -60,6 +60,11 @@ micah.saxton@tufts.edu
     * Suggested subject terms:
         * "television"
         * "television viewing"
+        
 
+* [Sociological Abstracts](http://www.library.tufts.edu/ezproxy/ezproxy.asp?LOCATION=PQSociolgcAbs)
+    * Suggested subject terms:
+        * "television"
+        * "television viewing"
 
 ### Questions?
